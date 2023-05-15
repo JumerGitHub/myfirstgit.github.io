@@ -1,0 +1,4 @@
+#F6F1F1 off-white
+#AFD3E2 light-blue
+#19A7CE primary-blue
+#146C94 dark-blue

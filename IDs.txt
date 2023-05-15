@@ -1,0 +1,16 @@
+SAFE {
+	https://safe.atos-nao.net/?UID=75084 
+	CRXSK2ZG5T9J6WWX
+}
+UAT {
+
+	username: your winID without prod
+	pass: Welcome1
+	!Access to all apps namon sa UAT pre, like MCP,ACRS, CORE and webportal
+}
+
+Shared by Sundeep {
+	https://conduent-my.sharepoint.com/:v:/r/personal/sundeep_sakineni_conduent_com/Documents/Recordings/MMLIS PCT access-20211020_161843-Meeting Recording.mp4?e=4%3a6e7b80fb8cca4eafa78561043e2eaade&web=1&at=9
+}
+
+
